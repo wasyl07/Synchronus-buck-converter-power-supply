@@ -334,10 +334,6 @@
       "Voltage_Probing"
     ],
     [
-      "6ba9c535-dc77-41a3-b137-b33abdca4cf3",
-      "StandaloneSheet"
-    ],
-    [
       "06eeb444-1ce9-479b-b772-906054c0cc1c",
       "USB"
     ],
@@ -348,6 +344,10 @@
     [
       "243d7ec8-7519-4970-b4e1-43d34fa42b89",
       "Power stage"
+    ],
+    [
+      "b5a86300-0a16-4af9-a1fe-7eb2cc8b5932",
+      "Standby_power"
     ]
   ],
   "text_variables": {}
